@@ -1,0 +1,1 @@
+model/nnUNet_3d_fullres/*/* filter=lfs diff=lfs merge=lfs -text
